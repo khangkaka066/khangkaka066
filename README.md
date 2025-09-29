@@ -5,5 +5,5 @@ My name is Viet Nguyen. I am a Senior AI engineer at Sporttotal. I am interested
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=khangkaka066&repo=Chatbot-Makeup&theme=radical" />
 </a>  
 <a href="https://github.com/khangkaka066/Stock-Price-Prediction">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=khangkaka066&repo=Stock-Price-Prediction&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=khangkaka066&repo=Stock-Price-Prediction&theme=dark" />
 </a>  
