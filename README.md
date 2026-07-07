@@ -32,3 +32,17 @@ My name is Khang Nguyen. I am a Senior AI engineer at Sporttotal. I am intereste
 <a href="https://github.com/khangkaka066/Website-MLN">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=khangkaka066&repo=Website-MLN&theme=tokyonight" />
 </a>  
+## 🛠️ Tech Stack
+- **Programming Language:** [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)](#)
+- **Library:** [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white)](#) [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?logo=Matplotlib&logoColor=black)](#) [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white)](#) [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white)](#) [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white)](#) [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white)](#) [![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?logo=scipy&logoColor=%white)](#) [![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?logo=opencv&logoColor=white)](#) [![Ultralytics](https://img.shields.io/badge/ultralytics-%23111F68.svg?logo=ultralytics&logoColor=white)](#)
+-  **Database:** [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?logo=mysql&logoColor=white)](#) [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
+
+## 💬 Contact me
+<p align="left">
+  <a href="https://www.linkedin.com/in/hungnguyen190204/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/hungnguyen190204" target="_blank">
+    <img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&logo=hackerrank&logoColor=white" alt="FaceBook"/>
+  </a>
+</p>
