@@ -1,48 +1,46 @@
-### WELCOME TO MY PAGE 👋👋👋
-My name is Khang Nguyen. I am a Senior AI engineer at Sporttotal. I am interested in the following topics: Deep Learning for Computer Vision, LLM, Reinforcement Learning.<br>
+### Welcome To My Page
 
-## 📫 How to reach me: 
+My name is Khang Nguyen. I am an AI student at FPT University, focused on Machine Learning, Deep Learning, NLP, Computer Vision, and LLM data pipelines. I enjoy building practical AI systems from data preparation and model training to evaluation and deployment.
 
-<a href="https://github.com/khangkaka066/Chatbot-Makeup">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=khangkaka066&repo=Chatbot-Makeup&theme=radical" />
-</a>  
-
-<a href="https://github.com/khangkaka066/Stock-Price-Prediction">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=khangkaka066&repo=Stock-Price-Prediction&theme=dark" />
-</a>  
-
-<a href="https://github.com/khangkaka066/Classification-In-Conveyor-Belt">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=khangkaka066&repo=Classification-In-Conveyor-Belt&theme=merko" />
-</a>  
-
-## 🚀 Featured Projects
-
-<a href="https://github.com/khangkaka066/MNIST">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=khangkaka066&repo=MNIST&theme=radical" />
-</a>  
+## Featured Projects
 
 <a href="https://github.com/khangkaka066/data-llm-coding">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=khangkaka066&repo=data-llm-coding&theme=dark" />
-</a>  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khangkaka066&repo=data-llm-coding&theme=dark" />
+</a>
+
+<a href="https://github.com/khangkaka066/Stock-Price-Prediction">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khangkaka066&repo=Stock-Price-Prediction&theme=dark" />
+</a>
 
 <a href="https://github.com/khangkaka066/Auto-Testing-Website">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=khangkaka066&repo=Auto-Testing-Website&theme=merko" />
-</a>  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khangkaka066&repo=Auto-Testing-Website&theme=dark" />
+</a>
 
-<a href="https://github.com/khangkaka066/Website-MLN">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=khangkaka066&repo=Website-MLN&theme=tokyonight" />
-</a>  
-## 🛠️ Tech Stack
-- **Programming Language:** [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)](#)
-- **Library:** [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white)](#) [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?logo=Matplotlib&logoColor=black)](#) [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white)](#) [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white)](#) [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white)](#) [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white)](#) [![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?logo=scipy&logoColor=%white)](#) [![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?logo=opencv&logoColor=white)](#) [![Ultralytics](https://img.shields.io/badge/ultralytics-%23111F68.svg?logo=ultralytics&logoColor=white)](#)
--  **Database:** [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?logo=mysql&logoColor=white)](#) [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
+<a href="https://github.com/khangkaka066/Classification-In-Conveyor-Belt">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khangkaka066&repo=Classification-In-Conveyor-Belt&theme=dark" />
+</a>
 
-## 💬 Contact me
+## Currently Working On
+
+- `data-llm-coding`: coding dataset generation, multi-model answer collection, automated verification, and SFT/DPO dataset preparation.
+- `vn-stock-predict`: Vietnamese stock prediction with time-series modeling and financial feature engineering.
+- AI agents and applied LLM workflows for real-world automation.
+
+## Tech Stack
+
+- **Programming:** ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+- **AI/ML:** ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)
+- **Data:** ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+- **Computer Vision:** ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white) ![Ultralytics](https://img.shields.io/badge/Ultralytics-111F68?logo=ultralytics&logoColor=white)
+- **Tools:** ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+
+## Contact
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/hungnguyen190204/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="mailto:knguyennht@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.facebook.com/hungnguyen190204" target="_blank">
-    <img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&logo=hackerrank&logoColor=white" alt="FaceBook"/>
+  <a href="https://github.com/khangkaka066" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
