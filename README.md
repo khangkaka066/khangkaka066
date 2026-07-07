@@ -5,53 +5,33 @@ My name is Khang Nguyen. I am an AI student at FPT University, focused on Machin
 ## Featured Projects
 
 <a href="https://github.com/khangkaka066/data-llm-coding">
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=khangkaka066&repo=data-llm-coding&theme=dark" />
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=khangkaka066&repo=data-llm-coding&theme=radical" />
 </a>
 
 <a href="https://github.com/khangkaka066/Stock-Price-Prediction">
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=khangkaka066&repo=Stock-Price-Prediction&theme=dark" />
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=khangkaka066&repo=Stock-Price-Prediction&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/khangkaka066/Auto-Testing-Website">
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=khangkaka066&repo=Auto-Testing-Website&theme=dark" />
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=khangkaka066&repo=Auto-Testing-Website&theme=merko" />
 </a>
 
 <a href="https://github.com/khangkaka066/Classification-In-Conveyor-Belt">
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=khangkaka066&repo=Classification-In-Conveyor-Belt&theme=dark" />
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=khangkaka066&repo=Classification-In-Conveyor-Belt&theme=gruvbox" />
 </a>
 
 ## More Projects
 
 <a href="https://github.com/khangkaka066/Chatbot-Makeup">
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=khangkaka066&repo=Chatbot-Makeup&theme=dark" />
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=khangkaka066&repo=Chatbot-Makeup&theme=cobalt" />
 </a>
 
 <a href="https://github.com/khangkaka066/MNIST">
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=khangkaka066&repo=MNIST&theme=dark" />
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=khangkaka066&repo=MNIST&theme=synthwave" />
 </a>
 
 <a href="https://github.com/khangkaka066/Website-MLN">
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=khangkaka066&repo=Website-MLN&theme=dark" />
-</a>
-
-<a href="https://github.com/khangkaka066/CountFormer_CityStreet">
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=khangkaka066&repo=CountFormer_CityStreet&theme=dark" />
-</a>
-
-<a href="https://github.com/khangkaka066/LatenMOT">
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=khangkaka066&repo=LatenMOT&theme=dark" />
-</a>
-
-<a href="https://github.com/khangkaka066/bytetrack">
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=khangkaka066&repo=bytetrack&theme=dark" />
-</a>
-
-<a href="https://github.com/khangkaka066/rtdetr_r50">
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=khangkaka066&repo=rtdetr_r50&theme=dark" />
-</a>
-
-<a href="https://github.com/khangkaka066/yolo_all_size">
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=khangkaka066&repo=yolo_all_size&theme=dark" />
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=khangkaka066&repo=Website-MLN&theme=dracula" />
 </a>
 
 ## Currently Working On
