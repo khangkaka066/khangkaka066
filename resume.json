@@ -1,0 +1,462 @@
+{
+  "picture": {
+    "hidden": false,
+    "url": "http://localhost:3000/api/uploads/019f2bd5-a465-72f2-a8b7-2790e1a0b9f0/pictures/1783150296255.jpeg",
+    "size": 80,
+    "rotation": 0,
+    "aspectRatio": 1,
+    "borderRadius": 0,
+    "borderColor": "rgba(0, 0, 0, 0.5)",
+    "borderWidth": 0,
+    "shadowColor": "rgba(0, 0, 0, 0.5)",
+    "shadowWidth": 0
+  },
+  "basics": {
+    "name": "Nguyễn Võ Hoàng Khang",
+    "headline": "AI Engineer | Machine Learning & LLM Data Pipelines",
+    "email": "knguyennht@gmail.com",
+    "phone": "0963603157",
+    "location": "Linh Dong Ward, Ho Chi Minh city",
+    "website": {
+      "url": "https://github.com/khangkaka066",
+      "label": "GitHub"
+    },
+    "customFields": []
+  },
+  "summary": {
+    "title": "Summary",
+    "icon": "article",
+    "columns": 1,
+    "hidden": false,
+    "content": "<p>AI student at FPT University focused on machine learning, deep learning, NLP, computer vision, and practical AI systems. I build end-to-end projects across LLM data generation, model evaluation, stock prediction, object detection, and web automation, with a strong interest in turning research ideas into working products.</p>"
+  },
+  "sections": {
+    "profiles": {
+      "title": "Profiles",
+      "icon": "messenger-logo",
+      "columns": 1,
+      "hidden": false,
+      "items": [
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440001",
+          "hidden": false,
+          "icon": "github",
+          "iconColor": "",
+          "network": "GitHub",
+          "username": "khangkaka066",
+          "website": {
+            "url": "https://github.com/khangkaka066",
+            "label": "GitHub",
+            "inlineLink": false
+          }
+        }
+      ]
+    },
+    "experience": {
+      "title": "Experience",
+      "icon": "briefcase",
+      "columns": 1,
+      "hidden": false,
+      "items": []
+    },
+    "education": {
+      "title": "Education",
+      "icon": "graduation-cap",
+      "columns": 1,
+      "hidden": false,
+      "items": [
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440002",
+          "hidden": false,
+          "school": "FPT University",
+          "degree": "Bachelor of Information Technology",
+          "area": "Artificial Intelligence",
+          "grade": "",
+          "location": "",
+          "period": "2022 - Now",
+          "website": {
+            "url": "",
+            "label": "",
+            "inlineLink": false
+          },
+          "description": ""
+        }
+      ]
+    },
+    "projects": {
+      "title": "Projects",
+      "icon": "code-simple",
+      "columns": 1,
+      "hidden": false,
+      "items": [
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440003",
+          "hidden": false,
+          "name": "data-llm-coding",
+          "period": "6/2026 - Present",
+          "website": {
+            "url": "https://github.com/khangkaka066/data-llm-coding",
+            "label": "GitHub",
+            "inlineLink": false
+          },
+          "description": "<p><strong>Developer</strong></p><ul><li>Built a Python pipeline to generate coding questions and collect parallel answers from multiple LLMs for fine-tuning/distillation datasets.</li><li>Implemented answer verification with visible and hidden tests, then used a judge model to select high-quality SFT and DPO training records.</li><li>Designed quality gates for API error rate, executable pass rate, JSON validity, and manual sample review before scaling the dataset.</li><li>Latest pilot: 100 questions, 1.0% API error rate, 71.67% executable pass rate, 85 SFT records, and 8 DPO preference pairs.</li><li>Technologies: Python, LLM APIs, automated evaluation, JSONL datasets, SFT/DPO data preparation.</li></ul>"
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440004",
+          "hidden": false,
+          "name": "vn-stock-predict",
+          "period": "2026 - Present",
+          "website": {
+            "url": "",
+            "label": "",
+            "inlineLink": false
+          },
+          "description": "<p><strong>Developer</strong></p><ul><li>Developing a Vietnamese stock prediction project focused on time-series modeling and market feature engineering.</li><li>Processes historical price data and technical indicators to support forecasting experiments for Vietnamese equities.</li><li>Builds reusable notebooks/scripts for data preparation, model training, evaluation, and result visualization.</li><li>Technologies: Python, Pandas, NumPy, Scikit-learn/PyTorch, Matplotlib, financial time-series analysis.</li></ul>"
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440005",
+          "hidden": false,
+          "name": "Stock Price Prediction with Transformer Encoder",
+          "period": "9/2025",
+          "website": {
+            "url": "https://github.com/khangkaka066/Stock-Price-Prediction",
+            "label": "GitHub",
+            "inlineLink": false
+          },
+          "description": "<p><strong>Developer</strong></p><ul><li>Built a stock price prediction experiment using a Transformer Encoder architecture for sequential financial data.</li><li>Prepared time-series inputs, trained forecasting models, and evaluated predictions against historical stock movement.</li><li>Used notebooks to document experiments, model behavior, and visualization of predicted vs. actual values.</li><li>Technologies: Python, Jupyter Notebook, Transformer Encoder, Pandas, NumPy, Matplotlib.</li></ul>"
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440018",
+          "hidden": false,
+          "name": "Auto-Testing-Website",
+          "period": "5/2026 - 7/2026",
+          "website": {
+            "url": "https://github.com/khangkaka066/Auto-Testing-Website",
+            "label": "GitHub",
+            "inlineLink": false
+          },
+          "description": "<p><strong>Developer</strong></p><ul><li>Built and deployed a JavaScript web application for automated website testing workflows.</li><li>Created an interactive front-end experience and deployed the project to Vercel for public access.</li><li>Focused on practical automation, UI flow, and test-result usability for web projects.</li><li>Technologies: JavaScript, HTML/CSS, Vercel, web automation/testing concepts.</li></ul>"
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440019",
+          "hidden": false,
+          "name": "Classification-In-Conveyor-Belt",
+          "period": "2/2025 - 3/2025",
+          "website": {
+            "url": "https://github.com/khangkaka066/Classification-In-Conveyor-Belt",
+            "label": "GitHub",
+            "inlineLink": false
+          },
+          "description": "<p><strong>Developer</strong></p><ul><li>Developed a real-time object classification system for automated sorting on a conveyor belt.</li><li>Collected and labeled image data, trained a YOLOv8 detection model, and integrated predictions with Arduino-controlled hardware.</li><li>Connected camera input, servo control, and computer vision inference for an end-to-end AI + IoT prototype.</li><li>Technologies: Python, YOLOv8, OpenCV, Arduino, C++.</li></ul>"
+        }
+      ]
+    },
+    "skills": {
+      "title": "Skills",
+      "icon": "compass-tool",
+      "columns": 1,
+      "hidden": false,
+      "items": [
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440006",
+          "hidden": false,
+          "icon": "",
+          "iconColor": "",
+          "name": "Machine Learning & Deep Learning",
+          "proficiency": "Advanced",
+          "level": 0,
+          "keywords": [
+            "Supervised/unsupervised learning",
+            "CNNs, RNNs, Transformers",
+            "PyTorch",
+            "Scikit-learn",
+            "Model evaluation"
+          ]
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440007",
+          "hidden": false,
+          "icon": "",
+          "iconColor": "",
+          "name": "LLM & NLP Engineering",
+          "proficiency": "Intermediate",
+          "level": 0,
+          "keywords": [
+            "LLM data pipelines",
+            "Prompt/evaluation workflows",
+            "SFT/DPO dataset preparation",
+            "Hugging Face Transformers",
+            "LangChain basics"
+          ]
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440008",
+          "hidden": false,
+          "icon": "",
+          "iconColor": "",
+          "name": "Data Processing & Analysis",
+          "proficiency": "Advanced",
+          "level": 0,
+          "keywords": [
+            "Python",
+            "NumPy",
+            "Pandas",
+            "SQL",
+            "JSON/JSONL",
+            "Matplotlib",
+            "Data cleaning"
+          ]
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440009",
+          "hidden": false,
+          "icon": "",
+          "iconColor": "",
+          "name": "Computer Vision & Robotics",
+          "proficiency": "Intermediate",
+          "level": 0,
+          "keywords": [
+            "YOLOv8",
+            "OpenCV",
+            "Object detection",
+            "Image classification",
+            "Arduino/IoT integration"
+          ]
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440010",
+          "hidden": false,
+          "icon": "",
+          "iconColor": "",
+          "name": "Software & Cloud Basics",
+          "proficiency": "Intermediate",
+          "level": 0,
+          "keywords": [
+            "JavaScript",
+            "HTML/CSS",
+            "Git/GitHub",
+            "Vercel deployment",
+            "Cloud computing fundamentals"
+          ]
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440011",
+          "hidden": false,
+          "icon": "",
+          "iconColor": "",
+          "name": "Collaboration & Project Skills",
+          "proficiency": "Advanced",
+          "level": 0,
+          "keywords": [
+            "Teamwork",
+            "Problem solving",
+            "Project planning",
+            "Technical documentation",
+            "Communication"
+          ]
+        }
+      ]
+    },
+    "languages": {
+      "title": "Languages",
+      "icon": "translate",
+      "columns": 1,
+      "hidden": false,
+      "items": []
+    },
+    "interests": {
+      "title": "Interests",
+      "icon": "football",
+      "columns": 1,
+      "hidden": false,
+      "items": []
+    },
+    "awards": {
+      "title": "Awards",
+      "icon": "trophy",
+      "columns": 1,
+      "hidden": false,
+      "items": []
+    },
+    "certifications": {
+      "title": "Certifications",
+      "icon": "certificate",
+      "columns": 1,
+      "hidden": false,
+      "items": [
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440012",
+          "hidden": false,
+          "title": "Project Management Principles and Practices",
+          "issuer": "Coursera",
+          "date": "2026",
+          "website": {
+            "url": "https://www.coursera.org/specializations/project-management",
+            "label": "Coursera",
+            "inlineLink": false
+          },
+          "description": ""
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440013",
+          "hidden": false,
+          "title": "Natural Language Processing",
+          "issuer": "Coursera",
+          "date": "2026",
+          "website": {
+            "url": "https://www.coursera.org/specializations/natural-language-processing",
+            "label": "Coursera",
+            "inlineLink": false
+          },
+          "description": ""
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440014",
+          "hidden": false,
+          "title": "Python for Data Science, AI & Development",
+          "issuer": "Coursera",
+          "date": "2026",
+          "website": {
+            "url": "https://www.coursera.org/learn/python-for-applied-data-science-ai/home/welcome",
+            "label": "Coursera",
+            "inlineLink": false
+          },
+          "description": ""
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440015",
+          "hidden": false,
+          "title": "Deep Learning",
+          "issuer": "Coursera",
+          "date": "2026",
+          "website": {
+            "url": "https://www.coursera.org/specializations/deep-learning",
+            "label": "Coursera",
+            "inlineLink": false
+          },
+          "description": ""
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440016",
+          "hidden": false,
+          "title": "Introduction to Cloud Computing",
+          "issuer": "Coursera",
+          "date": "2026",
+          "website": {
+            "url": "https://www.coursera.org/learn/introduction-to-cloud/home/welcome",
+            "label": "Coursera",
+            "inlineLink": false
+          },
+          "description": ""
+        }
+      ]
+    },
+    "publications": {
+      "title": "Publications",
+      "icon": "books",
+      "columns": 1,
+      "hidden": false,
+      "items": []
+    },
+    "volunteer": {
+      "title": "Volunteer",
+      "icon": "hand-heart",
+      "columns": 1,
+      "hidden": false,
+      "items": [
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440017",
+          "hidden": false,
+          "organization": "9.5 AI Club FPT University",
+          "location": "",
+          "period": "2024 - 2025",
+          "website": {
+            "url": "",
+            "label": "",
+            "inlineLink": false
+          },
+          "description": "<ul><li>Conducted Python training sessions for new club members, focusing on core concepts and practical exercises.</li><li>Contributed to a student ID information detection project as part of the club's initiatives, using YOLO-based object detection to identify and extract data from student ID cards.</li><li>Developed a product classification model integrated with IoT, leveraging YOLO to enable real-time item detection and classification.</li><li>Performed web scraping to gather and enrich the club's data sources, enabling more robust datasets for future projects.</li></ul>"
+        }
+      ]
+    },
+    "references": {
+      "title": "References",
+      "icon": "phone",
+      "columns": 1,
+      "hidden": false,
+      "items": []
+    }
+  },
+  "customSections": [],
+  "metadata": {
+    "template": "ditgar",
+    "layout": {
+      "sidebarWidth": 35,
+      "pages": [
+        {
+          "fullWidth": false,
+          "main": [
+            "profiles",
+            "summary",
+            "education",
+            "experience",
+            "projects",
+            "volunteer",
+            "references"
+          ],
+          "sidebar": [
+            "skills",
+            "certifications",
+            "awards",
+            "languages",
+            "interests",
+            "publications"
+          ]
+        }
+      ]
+    },
+    "page": {
+      "gapX": 4,
+      "gapY": 6,
+      "marginX": 14,
+      "marginY": 12,
+      "format": "a4",
+      "locale": "en-US",
+      "hideLinkUnderline": false,
+      "hideIcons": false,
+      "hideSectionIcons": true
+    },
+    "design": {
+      "level": {
+        "icon": "star",
+        "type": "hidden"
+      },
+      "colors": {
+        "primary": "rgba(82, 82, 82, 1)",
+        "text": "rgba(0, 0, 0, 1)",
+        "background": "rgba(255, 255, 255, 1)"
+      }
+    },
+    "typography": {
+      "body": {
+        "fontFamily": "IBM Plex Serif",
+        "fontWeights": [
+          "400",
+          "500"
+        ],
+        "fontSize": 10,
+        "lineHeight": 1.5
+      },
+      "heading": {
+        "fontFamily": "IBM Plex Serif",
+        "fontWeights": [
+          "600"
+        ],
+        "fontSize": 14,
+        "lineHeight": 1.5
+      }
+    },
+    "notes": "",
+    "styleRules": []
+  }
+}
