@@ -20,6 +20,40 @@ My name is Khang Nguyen. I am an AI student at FPT University, focused on Machin
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khangkaka066&repo=Classification-In-Conveyor-Belt&theme=dark" />
 </a>
 
+## More Projects
+
+<a href="https://github.com/khangkaka066/Chatbot-Makeup">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khangkaka066&repo=Chatbot-Makeup&theme=dark" />
+</a>
+
+<a href="https://github.com/khangkaka066/MNIST">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khangkaka066&repo=MNIST&theme=dark" />
+</a>
+
+<a href="https://github.com/khangkaka066/Website-MLN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khangkaka066&repo=Website-MLN&theme=dark" />
+</a>
+
+<a href="https://github.com/khangkaka066/CountFormer_CityStreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khangkaka066&repo=CountFormer_CityStreet&theme=dark" />
+</a>
+
+<a href="https://github.com/khangkaka066/LatenMOT">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khangkaka066&repo=LatenMOT&theme=dark" />
+</a>
+
+<a href="https://github.com/khangkaka066/bytetrack">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khangkaka066&repo=bytetrack&theme=dark" />
+</a>
+
+<a href="https://github.com/khangkaka066/rtdetr_r50">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khangkaka066&repo=rtdetr_r50&theme=dark" />
+</a>
+
+<a href="https://github.com/khangkaka066/yolo_all_size">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khangkaka066&repo=yolo_all_size&theme=dark" />
+</a>
+
 ## Currently Working On
 
 - `data-llm-coding`: coding dataset generation, multi-model answer collection, automated verification, and SFT/DPO dataset preparation.
