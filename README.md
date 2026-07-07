@@ -21,7 +21,7 @@ My name is Khang Nguyen. I am an AI student at FPT University, focused on Machin
 </a>
 
 <a href="https://github.com/khangkaka066/ByteTrack-DMA-LTC-Motion-Tracker">
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=khangkaka066&repo=bytetrack&theme=onedark" />
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=khangkaka066&repo=ByteTrack-DMA-LTC-Motion-Tracker&theme=onedark" />
 </a>
 
 ## More Projects
