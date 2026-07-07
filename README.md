@@ -20,12 +20,18 @@ My name is Khang Nguyen. I am an AI student at FPT University, focused on Machin
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=khangkaka066&repo=Classification-In-Conveyor-Belt&theme=gruvbox" />
 </a>
 
-<p>
-  <a href="https://github.com/khangkaka066/bytetrack"><strong>ByteTrack LTC/xLSTM Motion Predictor</strong></a><br>
-  <a href="https://github.com/khangkaka066/bytetrack">
-    <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=khangkaka066&repo=bytetrack&theme=onedark" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/khangkaka066/bytetrack"><strong>ByteTrack DMA-LTC Motion Tracker</strong></a><br>
+      <sub>Multi-object tracking project extending ByteTrack with DMA adaptive motion-appearance fusion and LTC motion residuals for Kalman prediction.</sub><br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch" />
+      <img src="https://img.shields.io/badge/MOT-00B8A9" alt="MOT" />
+      <img src="https://img.shields.io/badge/DMA%20%2B%20LTC-7C3AED" alt="DMA + LTC" />
+    </td>
+  </tr>
+</table>
 
 ## More Projects
 
@@ -44,7 +50,7 @@ My name is Khang Nguyen. I am an AI student at FPT University, focused on Machin
 ## Currently Working On
 
 - `data-llm-coding`: coding dataset generation, multi-model answer collection, automated verification, and SFT/DPO dataset preparation.
-- `ByteTrack LTC/xLSTM Motion Predictor`: extending ByteTrack with learned LTC/xLSTM motion residuals for Kalman prediction and MOT tracking experiments.
+- `ByteTrack DMA-LTC Motion Tracker`: extending ByteTrack with DMA adaptive motion-appearance fusion and learned LTC residuals for Kalman prediction in MOT experiments.
 - `vn-stock-predict`: Vietnamese stock prediction with time-series modeling and financial feature engineering.
 - AI agents and applied LLM workflows for real-world automation.
 
