@@ -24,6 +24,10 @@ My name is Khang Nguyen. I am an AI student at FPT University, focused on Machin
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=khangkaka066&repo=ByteTrack-DMA-LTC-Motion-Tracker&theme=onedark&card_width=540&cache_bust=20260707" />
 </a>
 
+<a href="https://github.com/khangkaka066/VN-HOSE-Prediction">
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=khangkaka066&repo=VN-HOSE-Prediction&theme=cobalt" />
+</a>
+
 ## More Projects
 
 <a href="https://github.com/khangkaka066/Chatbot-Makeup">
@@ -42,7 +46,7 @@ My name is Khang Nguyen. I am an AI student at FPT University, focused on Machin
 
 - `data-llm-coding`: coding dataset generation, multi-model answer collection, automated verification, and SFT/DPO dataset preparation.
 - `ByteTrack DMA-LTC Motion Tracker`: extending ByteTrack with DMA adaptive motion-appearance fusion and learned LTC residuals for Kalman prediction in MOT experiments.
-- `vn-stock-predict`: Vietnamese stock prediction with time-series modeling and financial feature engineering.
+- `VN-HOSE-Prediction`: Vietnamese HOSE stock prediction dataset and time-series modeling workflow.
 - AI agents and applied LLM workflows for real-world automation.
 
 ## Tech Stack
