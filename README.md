@@ -21,7 +21,7 @@ My name is Khang Nguyen. I am an AI student at FPT University, focused on Machin
 </a>
 
 <p>
-  <a href="https://github.com/khangkaka066/bytetrack"><strong>ByteTrack xLSTM Motion</strong></a><br>
+  <a href="https://github.com/khangkaka066/bytetrack"><strong>ByteTrack LTC/xLSTM Motion Predictor</strong></a><br>
   <a href="https://github.com/khangkaka066/bytetrack">
     <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=khangkaka066&repo=bytetrack&theme=onedark" />
   </a>
@@ -44,6 +44,7 @@ My name is Khang Nguyen. I am an AI student at FPT University, focused on Machin
 ## Currently Working On
 
 - `data-llm-coding`: coding dataset generation, multi-model answer collection, automated verification, and SFT/DPO dataset preparation.
+- `ByteTrack LTC/xLSTM Motion Predictor`: extending ByteTrack with learned LTC/xLSTM motion residuals for Kalman prediction and MOT tracking experiments.
 - `vn-stock-predict`: Vietnamese stock prediction with time-series modeling and financial feature engineering.
 - AI agents and applied LLM workflows for real-world automation.
 
